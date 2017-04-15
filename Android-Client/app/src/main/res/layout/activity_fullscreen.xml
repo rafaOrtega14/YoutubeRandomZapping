@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FullscreenActivity">
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube_player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"/>
+
+    <Button
+        android:text="Random Video"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#99C62828"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:id="@+id/button" />
+
+</LinearLayout>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_faf1f98c93967992dca127f67b8e492f35a369bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_404a31bc292457ce7d532289f5e0ebc6dbe989e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1fac137e2f8fe245fc881ee0de43a91c04abbf2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_404a31bc292457ce7d532289f5e0ebc6dbe989e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_08f9d75f7b7e298a7a77ce16dcf269ead0614029.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_faf1f98c93967992dca127f67b8e492f35a369bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_fb091dbc045a2d6b2e24196e919f6805a5170696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ddaeb4d9e314023a17df29130ef6680901121e6d">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8163f9b39f2c21af0681faa5a8b0672f8f181116/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_82c303211eb082eef12b06110cdfeac4dec72f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_fb091dbc045a2d6b2e24196e919f6805a5170696.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_80f09e00a9a45a5d1924314f3eb4e82e50137397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_82c303211eb082eef12b06110cdfeac4dec72f91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_08f9d75f7b7e298a7a77ce16dcf269ead0614029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_53ad9dff131a3e2ea9e6c5d017a863e2870ae427/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_80f09e00a9a45a5d1924314f3eb4e82e50137397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_53ad9dff131a3e2ea9e6c5d017a863e2870ae427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_43da2516737817e77837cf9ed86eea6ee6fb4427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8d674de5b4403e49ef113abb0809bdeec10b1a8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_43da2516737817e77837cf9ed86eea6ee6fb4427/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_741202a3474dc6f6e26f9d3223619862e4479289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_45ee890e7527bf658bcdaf24eee9750368b41fad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_45ee890e7527bf658bcdaf24eee9750368b41fad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8d674de5b4403e49ef113abb0809bdeec10b1a8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_741202a3474dc6f6e26f9d3223619862e4479289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_b01f924f95b846bbcc95fda16387869e21303cb7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b01f924f95b846bbcc95fda16387869e21303cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_074c42481069982b1fd59b520e21675f19be7bde.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_074c42481069982b1fd59b520e21675f19be7bde/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_2f2ca5067f49e09844db05d6a4a975f404320bb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_98ffe390cb47b8915198e3aae7dab3894397c5cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_98ffe390cb47b8915198e3aae7dab3894397c5cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1bec98b57a768bb8c200925cd03459182f2821b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_976c992fda99a579780cf88095a4992f84781c41.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_976c992fda99a579780cf88095a4992f84781c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2f2ca5067f49e09844db05d6a4a975f404320bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1bec98b57a768bb8c200925cd03459182f2821b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1fac137e2f8fe245fc881ee0de43a91c04abbf2e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb746ee0954454e0bc9cabfac83a285e490b4ec3">
+        <dex dex="/Users/mac/Desktop/YoutubeRandomZapping/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa2c7b07b639b958f618d5ca958ab1078510d47b/classes.dex" />
+    </item>
+
+</items>
